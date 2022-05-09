@@ -4,4 +4,6 @@
     font-weight: normal;
     padding-bottom: 16px;
     color: white;
+    display: flex;
+    flex-direction: column;
   }
