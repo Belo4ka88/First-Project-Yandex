@@ -2,6 +2,7 @@
     margin-top: 10px;
     color: white;
     text-decoration: none;
+    float: left;
   }
 .footer__column-link:hover{
   opacity: 50%;
